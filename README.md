@@ -12,6 +12,7 @@ phác thảo dàn ý/kịch bản và đề xuất bố cục,
 nhưng sinh viên bắt buộc biên tập lại để đảm bảo tính nguyên bản, bảo mật và bản quyền.
 
 2. Kế hoạch triển khai chi tiết theo tuần
+
 • Tuần 1 – Nghiên cứu & lập kế hoạch: Nhóm dùng AI gợi ý ý tưởng, thảo luận chốt 1 chủ đề 
 và thiết kế sơ đồ tư duy hoặc dàn ý trên Google Docs/MS Word. Tiếp theo, nhóm tìm kiếm 5–8 nguồn tài 
 liệu đáng tin cậy (bài báo, báo cáo, video; ưu tiên Google Scholar hoặc truy vấn nâng cao như site:edu) 
